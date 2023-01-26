@@ -1,4 +1,4 @@
-//Tic Tac Toe for multiplayers 
+//TicTacToe for multiplayers 
 
 #include <iostream>
 using namespace std;
