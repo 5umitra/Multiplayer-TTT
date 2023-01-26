@@ -132,5 +132,5 @@ void baseboard()
 
     cout << "  " << box[7] << "  |  " << box[8] << "  |  " << box[9] << endl;
 
-    cout << "     |     |     " << endl << endl;
+    cout << "     |     |     " << endl;
 }
